@@ -1,0 +1,9 @@
+[
+  {
+    "name": "VEX",
+    "symbol": "VEX",
+    "contract": "vex.token",
+    "precision": 4,
+    "logo": "https://raw.githubusercontent.com/pixelgenius-id/token-list/main/logos/vex.png"
+  }
+]
